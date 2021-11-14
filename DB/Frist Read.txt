@@ -1,0 +1,1 @@
+Please Change or check uour database information form inc/header.php file.
